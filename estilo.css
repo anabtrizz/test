@@ -1,0 +1,117 @@
+.img1   {
+        background:url(img1.jpg) ;
+        background-size:cover;
+        height:600px;
+        width:100%;
+        background-attachment: fixed;
+        }
+
+.img2   {
+        background:url(img2.png) ;
+        background-size:cover;
+        height:600px;
+        width:100%;
+        background-attachment: fixed;
+        }
+
+.img3   {
+        background:url(img3.jpg) ;
+        background-size:cover;
+        height:600px;
+        width:100%;
+        background-attachment: fixed;
+        }
+
+
+.img4   {
+        background:url(img4.jpg) ;
+        background-size:cover;
+        height:600px;
+        width:100%;
+        background-attachment: fixed;
+        }
+
+.tape   {
+        background-color: whitesmoke;
+        height:155px;
+        width:100%;
+        background-attachment: fixed;
+        }
+
+.INICIO     {
+            background-color: rgba(248, 245, 238, 0.747);
+            border-radius: 40px;
+            position:absolute;
+            left:510px;
+            top:200px;
+            font-size:50px;
+            padding:15px;
+            }
+
+.INICIO:hover   {
+                background-color: white;
+                }
+
+.SOBRE  {
+        background-color: rgba(216, 191, 216, 0.63);
+        font-size: 25px;
+        padding:8px;
+        position:absolute;
+        left:260px;
+        top:660px;
+        border-radius: 40px;
+        }
+
+.SOBRE:hover    {
+                background-color: white;
+                font-size:35px;
+}
+
+
+
+.SISTEMA    {
+    background-color: rgba(216, 191, 216, 0.63);
+    font-size: 25px;
+    padding:8px;
+    position:absolute;
+    left:535px;
+    top:660px;
+    border-radius: 40px;
+            }
+
+.SISTEMA:hover    {
+                background-color: white;
+                font-size:35px;
+                }
+
+
+
+.VIA       {
+    background-color: rgba(216, 191, 216, 0.63);
+    font-size: 25px;
+    padding:8px;
+    position:absolute;
+    left:885px;
+    top:660px;
+    border-radius: 40px;
+            }
+
+.VIA:hover    {
+                background-color: white;
+                font-size:35px;
+                }
+
+.menu   {
+        background-color: rgba(245, 222, 179, 0.616);
+        font-size:30px;
+        padding:120px;
+        width:15%;
+        position: absolute;
+        left:500px;
+        top:800px;
+
+        }
+
+.menu:hover    {
+               background-color: white;
+               }
